@@ -1,5 +1,6 @@
 *{
-    outline: 1px solid #1E90FF;
+    /*see elements in screen*/
+    /*outline: 1px solid #1E90FF;*/
 }
 .row{
     width: 100%;
@@ -53,4 +54,8 @@
 
 .col-12{
     width: 100%;
+}
+
+div > p {
+    padding: 5%;
 }
